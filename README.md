@@ -122,8 +122,10 @@ python RAG_hara.py
 ```
 
 ## Output
-
 Both systems generate Excel files with complete HARA analysis:
+
+Basic Hybrid: HARA_OUTPUT.xlsx
+RAG-Enhanced: RAG_HARA_OUTPUT.xlsx
 
 **Generated Columns**:
 - Hazardous Event
